@@ -1,2 +1,2 @@
 # mern-auth-frontend
-https://mern-auth-frontend-m65x.onrender.com/
+https://mern-auth-frontend-5h4z.vercel.app/
