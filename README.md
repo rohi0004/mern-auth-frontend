@@ -1,7 +1,9 @@
 
 # MERN Authentication Frontend
 
-[Live Demo](https://mern-auth-frontend-5h4z.vercel.app/)
+**Backend** [Live Demo](https://mern-auth-backend-9nx9.onrender.com)
+
+**Frontend**[Live Demo](https://mern-auth-frontend-5h4z.vercel.app/)
 
 Welcome to the MERN Authentication system! This project implements a secure user authentication system using **JSON Web Tokens (JWT)**. The frontend leverages **React Context** for state management, **Shadcn** components for the UI, and **React Router v6** for navigation.
 
